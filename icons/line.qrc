@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>line.png</file>
+        <file>ellipse.png</file>
+        <file>dot.png</file>
+        <file>702814-200.png</file>
+        <file>photo_5359569825187355355_x.jpg</file>
+        <file>dumbbell_206315.png</file>
+        <file>645891.png</file>
+    </qresource>
+</RCC>
