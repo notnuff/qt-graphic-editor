@@ -34,6 +34,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         cubeshape.h cubeshape.cpp
         mytable.h mytable.cpp mytable.ui
         mytableview.h mytableview.cpp
+        README.md
 
 
 

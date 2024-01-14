@@ -41,6 +41,8 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+
+    this->setWindowTitle("qt-graphics-editor");
     table = new MyTable(this);
     editor = SingletonEditor::getInstance();
     editor->setStyleSheet("border: 1px solid black; "
