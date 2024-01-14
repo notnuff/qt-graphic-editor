@@ -1,51 +1,16 @@
-# First Level Heading
+# This is an example of basic graphics editor
 
-Paragraph.
+It`s all done using C++ with Qt framework.
+The main goal of this project was to learn OOP principles, and it was achieved.
 
-## Second Level Heading
+Here are some screenshots of its features:
 
-Paragraph.
 
-- bullet
-+ other bullet
-* another bullet
-    * child bullet
-
-1. ordered
-2. next ordered
-
-### Third Level Heading
-
-Some *italic* and **bold** text and `inline code`.
-
-An empty line starts a new paragraph.
-
-Use two spaces at the end  
-to force a line break.
-
-A horizontal ruler follows:
-
----
-
-Add links inline like [this link to the Qt homepage](https://www.qt.io),
-or with a reference like [this other link to the Qt homepage][1].
-
-    Add code blocks with
-    four spaces at the front.
-
-> A blockquote
-> starts with >
->
-> and has the same paragraph rules as normal text.
-
-First Level Heading in Alternate Style
-======================================
-
-Paragraph.
-
-Second Level Heading in Alternate Style
----------------------------------------
-
-Paragraph.
-
-[1]: https://www.qt.io
+-  The editor itself
+![alt text]("./img/1.png")
+-  The table with shapes contest
+![alt text](./img/2.png)
+-  Removing shapes from the table feature
+![alt text](./img/3.png)
+-  Saving current shapes state feature
+![alt text](./img/4.png)
