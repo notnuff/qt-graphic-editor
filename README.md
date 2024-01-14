@@ -7,10 +7,17 @@ Here are some screenshots of its features:
 
 
 -  The editor itself
-![alt text]("./img/1.png")
+
+![alt text](./img/1.png)
+
 -  The table with shapes contest
+
 ![alt text](./img/2.png)
+
 -  Removing shapes from the table feature
+
 ![alt text](./img/3.png)
+
 -  Saving current shapes state feature
+
 ![alt text](./img/4.png)
